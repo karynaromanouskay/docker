@@ -46,3 +46,4 @@ out/
 
 data/
 *.idea/gradle.xml
+/.idea/
